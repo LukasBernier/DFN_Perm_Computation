@@ -1,0 +1,7 @@
+Numbers_of_segments
+x1 y1 x2 y2 aperture_(meter) transmissivity_(equation_(2)_in_the_manuscript)
+
+
+
+
+#note : a fracture can be constituted by many segments. Each segment is made up of two nodes, with a x and a y coordinates. 
